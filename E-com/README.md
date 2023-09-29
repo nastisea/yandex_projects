@@ -4,6 +4,8 @@
 |:--|:---------|
 | Сегментация покупателей интернет-магазина товаров для дома по профилю потребления на основе истории покупок. Выявление закономерностей и особенностей сегментов пользователей| plotly.express, pymorphy2, sklearn.preprocessing, scipy.cluster.hierarchy, sklearn.cluster, scipy.stats, statsmodels.stats.multitest |
 
+
+
 ____
 
 ## Вывод по исследованию.
