@@ -9,4 +9,6 @@
 | [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/nastisea/yandex_projects/tree/main/1Proj_real_estate) | На основании данных о продаже квартир в Санкт-Петербурге и соседних населённых пунктах выяснить какие факторы больше всего влияют на стоимость объекта| pandas, matplotlib, numpy |
 | [E-commerce — Выявление профилей потребления](https://github.com/nastisea/yandex_projects/tree/main/E-com) | Сегментация покупателей интернет-магазина товаров для дома по профилю потребления на основе истории покупок. Выявление закономерностей и особенностей сегментов пользователей | plotly.express,  pymorphy2,  sklearn,  scipy, statsmodels|
 |[Разработка модели прогнозирования оттока клиентов фитнес-центра](https://github.com/nastisea/yandex_projects/tree/main/gym_ml)| Разработка системы для прогнозирования вероятности оттока для каждого клиента, определение типичных групп и  портретов клиентов, а также их основных свойств и характеристик. Анализ признаков, влияющих на отток.| matplotlib.pyplot, plotly.express, seaborn, sklearn, scipy |
+|[С помощью библиотеки SQLAlchemy создание запросов к базе данных StackOverflow — сервиса вопросов и ответов о программировании.](https://github.com/nastisea/yandex_projects/tree/main/SQL_StackOverflow) | SQLAlchemy |
+
 
