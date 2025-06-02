@@ -9,6 +9,6 @@
 | [E-commerce — Выявление профилей потребления](https://github.com/nastisea/yandex_projects/tree/main/E-com) | Сегментация покупателей интернет-магазина товаров для дома по профилю потребления на основе истории покупок. Выявление закономерностей и особенностей сегментов пользователей | plotly.express,  pymorphy2,  sklearn,  scipy, statsmodels|
 |[Разработка модели прогнозирования оттока клиентов фитнес-центра](https://github.com/nastisea/yandex_projects/tree/main/gym_ml)| Разработка системы для прогнозирования вероятности оттока для каждого клиента, определение типичных групп и  портретов клиентов, а также их основных свойств и характеристик. Анализ признаков, влияющих на отток.| matplotlib.pyplot, plotly.express, seaborn, sklearn, scipy |
 |[SQLAlchemy. Запросы к базе данных](https://github.com/nastisea/yandex_projects/tree/main/SQL_StackOverflow)| С помощью библиотеки SQLAlchemy создание запросов к базе данных StackOverflow — сервиса вопросов и ответов о программировании.| SQLAlchemy |
-|[AB тестирование](https://github.com/nastisea/yandex_projects/tree/main/AB_test)| Приоритизация гипотез для увеличения выручки интернет-магазина, запуск A/B-теста и анализ его результатов.| pandas, numpy, matplotlib.pyplot, scipy.stats |
+|[A/B тестирование](https://github.com/nastisea/yandex_projects/tree/main/AB_test)| Приоритизация гипотез для увеличения выручки интернет-магазина, запуск A/B-теста и анализ его результатов.| pandas, numpy, matplotlib.pyplot, scipy.stats |
 
 
